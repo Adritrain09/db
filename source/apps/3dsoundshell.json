@@ -2,7 +2,8 @@
   "github": "Adritrain09/3DSoundShell",
   "systems": ["3DS"],
   "categories": ["Multimedia"],
-  "description": "Un lecteur de musique pour 2DS/3DS avec egaliser visuel, playlist, paramètre de vitesse et bien plus..",
+  "description": "Un lecteur de musique, audio mp3,ogg,wav,etc pour 2DS/3DS avec egaliser visuel, playlist, paramètre de vitesse et bien plus..",
   "site": "https://3DSoundShell.hosten.uk",
   "image": "https://raw.githubusercontent.com/Adritrain09/3DSoundShell/main/3DSoundShell%20presentation.png"
+  "icon": "https://raw.githubusercontent.com/Adritrain09/3DSoundShell/main/3DSoundShell.png"
 }
